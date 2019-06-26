@@ -5,7 +5,7 @@ import json
 import datetime
 import time
 
-endpoint = "alh4j787ogwsb-ats.iot.ap-northeast-1.amazonaws.com"#AWSのエンドポイント
+endpoint = "**********.amazonaws.com"#AWSのエンドポイント
 port = 8883#AWSのポート
 PUB_TOPIC = "AWS_SYS/QOL"
 rootCA = "root-CA.crt"  #ルート証明書
