@@ -3,7 +3,7 @@ import ssl
 import subprocess
 import json
 
-endpoint = "alh4j787ogwsb-ats.iot.ap-northeast-1.amazonaws.com"#AWSのエンドポイント
+endpoint = "******.amazonaws.com"#AWSのエンドポイント
 port = 8883#AWSのポート
 SUB_TOPIC = "AWS_IoT/#"
 rootCA = "root-CA.crt"  #ルート証明書
